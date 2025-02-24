@@ -1,7 +1,4 @@
-# Python Optimize Images
-Xin chào, mình là Vinh đây. 
-
-[![Python Optimize Images](http://img.youtube.com/vi/aRmBLWA_czA/0.jpg)](http://www.youtube.com/watch?v=aRmBLWA_czA)
+# Images Compressor Python
 
 Đây là code Python tối ưu hình ảnh hàng loạt một cách miễn phí, nhanh chóng. Có thể xử lý bao nhiêu cũng được, tốc độ nhanh.
 
@@ -30,12 +27,6 @@ Nếu bạn muốn tối ưu hóa hình ảnh mà không thay đổi định d�
 optimize_images(folder_path="images")
 ```
 
-Đọc thêm tại: https://vinhweb.com/blog/code-python-optimize-toi-uu-hinh-anh-mien-phi
-
-Nhiều source code hay hơn nữa tại website: https://vinhweb.com/.
-
-Hãy mua để ủng hộ Vinh phát triển thêm nhé. Cảm ơn bạn.
-
 
 ## Hướng dẫn setup:
-Hướng setup Python Project để chạy được source này tại [đây](https://mango-freesia-da4.notion.site/Doc-H-ng-d-n-Setup-Python-Project-VinhWeb-19274673f5db80679725d682c13c7f90?pvs=74)
+Hướng setup Python Project để chạy được source này tại [đây](https://www.notion.so/Setup-project-19c0e5ada1dd809096d2dfacc458115a)
