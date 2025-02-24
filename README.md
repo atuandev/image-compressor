@@ -5,6 +5,12 @@
 ## Giới thiệu
 Đoạn code này xử lý tất cả các tệp hình ảnh trong thư mục được cung cấp, khớp với các loại được chỉ định, tối ưu hóa chúng và lưu chúng trong một thư mục đầu ra được chỉ định. Định dạng đầu ra cũng có thể được thiết lập. Nếu không có thư mục đầu ra nào được chỉ định, thư mục gốc sẽ được sử dụng làm vị trí đầu ra.
 
+## Hướng dẫn setup
+Hướng setup Python Project để chạy được source này tại [đây](https://www.notion.so/Setup-project-19c0e5ada1dd809096d2dfacc458115a)
+
+## Chạy dự án sau khi setup xong
+Mở terminal và chạy: `python main.py`
+
 **Các tham số:**
 
 - `folder_path` (str): Đường dẫn đến thư mục chứa hình ảnh cần tối ưu hóa.
@@ -26,7 +32,3 @@ Nếu bạn muốn tối ưu hóa hình ảnh mà không thay đổi định d�
 ```python
 optimize_images(folder_path="images")
 ```
-
-
-## Hướng dẫn setup:
-Hướng setup Python Project để chạy được source này tại [đây](https://www.notion.so/Setup-project-19c0e5ada1dd809096d2dfacc458115a)
